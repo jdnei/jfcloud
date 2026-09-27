@@ -33,8 +33,8 @@ JFCloud疾风云机场主打低价、高流量与专线稳定性，全线节点�
 | 旗舰版大流量 | ¥119.99/月 | 1200GB | 10个 | 不限速 | ✅ | ✅ | ✅ | 入门版、基础版、标准版、高级版、旗舰版（全部节点） |
 ## 📊 性能实测与分析
 #### 1.晚高峰测速表现
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/jfcloud/blob/main/jfcloud/498529347598speed.png?raw=ture)</br>
 #### 2.流媒体解锁报告
-![image](?raw=ture)</br>  
+![image](https://github.com/jdnei/jfcloud/blob/main/jfcloud/452934759837495test.png?raw=ture)</br>  
 #### 3.落地入口分析
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/jfcloud/blob/main/jfcloud/47523475070ana.png?raw=ture)</br>
