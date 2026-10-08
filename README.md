@@ -1,5 +1,5 @@
 
-# JFCloud疾风云机场官方地址(2026年9月26日更新)
+# JFCloud疾风云机场官方地址(2026年10月8日更新)
 JFCloud疾风云机场官网地址</br>
 最新地址：[j134.net](https://j134.net/?code=EACg)</br>
 官方地址：[homes.jif9.net](https://homes.jif9.net/)</br>
