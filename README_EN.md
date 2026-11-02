@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# JFCloud VPN Official Website (Updated November 1, 2026)
+# JFCloud VPN Official Website (Updated November 2, 2026)
 
 Official JFCloud VPN Website<br>
 Latest URL: [j134.net](https://to.iix.im/jf01)<br>
