@@ -1,7 +1,7 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# JFCloud疾风云机场官方地址(2026年11月6日更新)
+# JFCloud疾风云机场官方地址(2026年11月7日更新)
 JFCloud疾风云机场官网地址</br>
 最新地址：[j134.net](https://to.iix.im/jf01)</br>
 官方地址：[homes.jif9.net](https://to.iix.im/jf02)</br>
