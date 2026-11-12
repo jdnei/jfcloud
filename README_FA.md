@@ -1,6 +1,6 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
-# وب‌سایت رسمی JFCloud VPN (به‌روزرسانی 11 نوامبر 2026)
+# وب‌سایت رسمی JFCloud VPN (به‌روزرسانی 12 نوامبر 2026)
 وب‌سایت رسمی JFCloud VPN<br>
 آخرین آدرس: [j134.net](https://to.iix.im/jf01)<br>
 آدرس رسمی: [homes.jif9.net](https://to.iix.im/jf02)<br>
